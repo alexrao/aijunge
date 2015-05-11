@@ -1,0 +1,5 @@
+4
+1,soldier_movie/1.jpg
+2,soldier_movie/2.jpg
+3,soldier_movie/3.jpg
+4,soldier_movie/4.jpg

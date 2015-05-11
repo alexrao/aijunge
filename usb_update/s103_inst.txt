@@ -1,0 +1,5 @@
+copy file /mnt/vod_800s/message.txt
+update file /mnt/prog_7231_800dh/main_800sh
+execute file		data_update.sh 
+update romfs vmlinuz-initrd-7231b0_V4L2
+update logo start_logo.bmp
